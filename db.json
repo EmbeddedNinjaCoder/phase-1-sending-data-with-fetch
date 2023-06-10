@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,50 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Sebastian",
+      "dogBreed": "Dachshund",
+      "id": 3
+    },
+    {
+      "dogName": "Sebastian",
+      "dogBreed": "Dachshund",
+      "id": 4
+    },
+    {
+      "dogName": "Benjamin",
+      "dogBreed": "Dachshund",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Nick",
+      "dogBreed": "Fox Terrier",
+      "id": 8
+    },
+    {
+      "dogName": "Tiger",
+      "dogBreed": "German Shephard",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +63,213 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 1
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 2
+    },
+    {
+      "name": "German",
+      "email": "sss@ddd.com",
+      "id": 3
+    },
+    {
+      "name": "Santos",
+      "email": "xyz@zyz.com",
+      "id": 4
+    },
+    {
+      "name": "Santos2",
+      "email": "xyz2@zyz.com",
+      "id": 5
+    },
+    {
+      "name": "Santos3",
+      "email": "xyz3@zyz.com",
+      "id": 6
+    },
+    {
+      "name": "Santos3",
+      "email": "xyz3@zyz.com",
+      "id": 7
+    },
+    {
+      "name": "Santos3",
+      "email": "xyz3@zyz.com",
+      "id": 8
+    },
+    {
+      "name": "Santos4",
+      "email": "xyz4@zyz.com",
+      "id": 9
+    },
+    {
+      "name": "Santos4",
+      "email": "xyz4@zyz.com",
+      "id": 10
+    },
+    {
+      "name": "Santos5",
+      "email": "xyz5@zyz.com",
+      "id": 11
+    },
+    {
+      "name": "Santos6",
+      "email": "xyz6@zyz.com",
+      "id": 12
+    },
+    {
+      "name": "Santos6",
+      "email": "xyz6@zyz.com",
+      "id": 13
+    },
+    {
+      "name": "Santos6",
+      "email": "xyz6@zyz.com",
+      "id": 14
+    },
+    {
+      "name": "Santos6",
+      "email": "xyz6@zyz.com",
+      "id": 15
+    },
+    {
+      "name": "Santos7",
+      "email": "xyz7@zyz.com",
+      "id": 16
+    },
+    {
+      "name": "Santos7",
+      "email": "xyz7@zyz.com",
+      "id": 17
+    },
+    {
+      "name": "Santos7",
+      "email": "xyz7@zyz.com",
+      "id": 18
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 19
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 20
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 21
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 22
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 23
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 24
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 25
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 26
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 27
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 28
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 29
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 30
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 31
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 32
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 33
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 34
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 35
+    },
+    {
+      "name": "Santos8",
+      "email": "xyz8@zyz.com",
+      "id": 36
+    },
+    {
+      "name": "Santos9",
+      "email": "xyz9@zyz.com",
+      "id": 37
+    },
+    {
+      "name": "Santos9",
+      "email": "xyz9@zyz.com",
+      "id": 38
+    },
+    {
+      "name": "Santos9",
+      "email": "xyz9@zyz.com",
+      "id": 39
+    },
+    {
+      "name": "Santos9",
+      "email": "xyz9@zyz.com",
+      "id": 40
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
